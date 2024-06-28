@@ -1,0 +1,49 @@
+.icloud_row{
+    display: flex;
+justify-content: space-between;
+background-color: black; 
+color: white;
+padding: 0px 10px 0px 10px;
+margin: 80px 20px 3px 40px;
+}
+
+
+.icloud_row2{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: left;
+    margin-top: 20px;
+}
+.icloud_row2_leftblock_img{
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 100px;
+
+}
+.icloud_row3{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.icloud_row3_box_img{
+    height: 100px;
+}
+.icloud_row3_box{
+    text-align: center;
+    }
+.icloud_row4{
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        margin-top: 50px;
+    }
+.icloud_row4_box_img{
+        height: 100px;
+    }
+.icloud_row4_box{
+        text-align: center;
+        }  
+
+ 
